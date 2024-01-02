@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "369971272047",
+    "firebase_url": "https://travelmanagementapp-56f25-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "travelmanagementapp-56f25",
+    "storage_bucket": "travelmanagementapp-56f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369971272047:android:800aed78e85f3e77c9f09a",
+        "android_client_info": {
+          "package_name": "eif.viko.lt.faculty.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PxkP1HVWHnriY2qaK6gqzSJAtmxSshg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
